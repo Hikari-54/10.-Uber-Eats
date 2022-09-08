@@ -197,3 +197,19 @@ footer a{
 #app-store{
 	margin-right: 40px;
 }
+.personal-data{
+	font-size: 11px;
+}
+.personal-data a{
+	margin-bottom: 40px;
+}
+
+.button-up{
+	width: 80px;
+	height: 80px;
+	position: fixed;
+	bottom: 24px;
+	right: 16px;
+	background-color: #59BD5A;
+
+}
